@@ -2,7 +2,7 @@
 
 ## 📍 소개
 
-뉴스버즈량과 주식 거래량과의 관계를 토픽모델링을 통해 거래량이 peak인 날짜에 가장 잘 맞는 주요 뉴스 토픽을 도출하고자 함
+토픽모델링을 통해 뉴스버즈량과 주식 거래량과의 관계를 거래량이 peak인 날짜에 가장 잘 맞는 주요 뉴스 토픽을 도출하여 금융 시장의 변동성을 설명하고자 함
 
 ## 📆 기간
 
@@ -42,4 +42,14 @@
 
 https://puddle-sandal-0bf.notion.site/fd17d595ed954d8aaea64ce0672a8fe3?v=2b353239cb4b4d3abf2840e774cbfebd
 https://github.com/Sunnn-y/SKhynix_Project
- 
+
+## 📃 레퍼런스
+
+[High quality topic extraction from business news explains abnormal financial market volatility]
+Ryohei Hisano, Didier Sornette, Takayuki Mizuno, Takaaki Ohnishi, Tsutomu Watanabe
+
+[재무관리]
+김종길 도서출판 소온(2018), 10-2p
+
+
+
