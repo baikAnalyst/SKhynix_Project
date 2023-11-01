@@ -7,6 +7,10 @@
 ## 📆 기간
 
 2023.10.30~2023.11.03
+
+## 📝 노션(WBS)
+
+https://puddle-sandal-0bf.notion.site/fd17d595ed954d8aaea64ce0672a8fe3?v=2b353239cb4b4d3abf2840e774cbfebd&pvs=4 
  
 ## 👩‍💻 팀원
 
