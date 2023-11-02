@@ -52,8 +52,6 @@ https://github.com/Sunnn-y/SKhynix_Project
 [High quality topic extraction from business news explains abnormal financial market volatility]
 Ryohei Hisano, Didier Sornette, Takayuki Mizuno, Takaaki Ohnishi, Tsutomu Watanabe
 
-[재무관리]
-김종길 도서출판 소온(2018), 10-2p
 
 
 
