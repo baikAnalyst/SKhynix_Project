@@ -16,8 +16,8 @@ https://puddle-sandal-0bf.notion.site/fd17d595ed954d8aaea64ce0672a8fe3?v=2b35323
 
 | 이름   | 역할                                         | url                          |
 | ------ | -------------------------------------------- | ----------------------------- |
-| 양소은 | 팀장, 논문 리뷰 및 발표, 데이터 전처리(토큰화, 불용어처리), LDA토픽모델링,               | https://github.com/Sunnn-y |
-| 손효정 | 팀원, 뉴스데이터 수집, 5년치 데이터 병합, 병렬처리, LASSO 회귀 분석            | https://github.com/sonhj110 |
+| 양소은 | 팀장, 논문 요약 리뷰 및 발표, 데이터 전처리(토큰화, 불용어처리), LDA토픽모델링, FPE 계산, 대시보드 제작              | https://github.com/Sunnn-y |
+| 손효정 | 팀원, 뉴스데이터 수집, 5년치 데이터 병합, 병렬처리, LASSO 회귀 분석, 토픽별 예측거래량 시각화, FVE 계산, 최종 발표            | https://github.com/sonhj110 |
 | 백선영 | 팀원, 주식거래량데이터 수집, 피크데이 도출, LDA토픽모델링 시각화,  | https://github.com/baikAnalyst |
 | 신민채 | 팀원, 뉴스데이터와 주식거래량 시각화, 최종발표자료 제작,       | https://github.com/shenmincai |
 
