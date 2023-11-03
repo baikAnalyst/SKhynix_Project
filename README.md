@@ -40,7 +40,6 @@ https://puddle-sandal-0bf.notion.site/fd17d595ed954d8aaea64ce0672a8fe3?v=2b35323
 - Mecab
 - gensim
 - pyLDAvis
-- chatGPT
 
 ## 📝 구현내용
 
