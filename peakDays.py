@@ -4,7 +4,7 @@ import numpy as np
 df = pd.read_csv('/content/drive/MyDrive/sesac_jongro/SK하이닉스/tradingVolumeData/volume.csv', header=None, sep=',')
 df.columns = ['Date', 'Volume']
 
-# Remove unwanted data
+# Remove unwanted data 
 df = df.iloc[6:]
 df.reset_index(inplace=True)
 df.drop(labels='index', axis=1, inplace=True)
